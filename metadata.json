@@ -1,0 +1,6 @@
+{
+  "name": "Haashiya Air Travels",
+  "description": "Passport, Visa, PAN Card & e-Sevai Government Services Center in Mimisal, East Coast Road.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
